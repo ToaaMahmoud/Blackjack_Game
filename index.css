@@ -7,9 +7,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(2);
+    height: 80vh;
 }
 .contain {
-    margin: 5% auto;
+    margin: 3% auto;
     width: 30%;
     height: 40rem;
     background-image: url("img.jpg");
